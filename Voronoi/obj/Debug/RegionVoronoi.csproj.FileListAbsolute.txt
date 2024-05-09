@@ -1,0 +1,2 @@
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\obj\Debug\RegionVoronoi.csproj.AssemblyReference.cache
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\obj\Debug\RegionVoronoi.csproj.CoreCompileInputs.cache

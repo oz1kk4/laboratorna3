@@ -1,0 +1,105 @@
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.exe.config
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\RandomColorGenerator.Forms.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\RegionVoronoi.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\clipper_library.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\PdfSharp.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\PdfSharp.Charting.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\RegionVoronoi.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\RandomColorGenerator.Forms.xml
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\MigraDoc.RtfRendering.xml
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\PdfSharp.xml
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\MigraDoc.Rendering.xml
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\PdfSharp.Charting.xml
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.AssemblyReference.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.Form1.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.Properties.Resources.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.GenerateResource.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.CoreCompileInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.CopyComplete
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.exe.config
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RandomColorGenerator.Forms.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RegionVoronoi.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\clipper_library.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RegionVoronoi.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RandomColorGenerator.Forms.xml
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.AssemblyReference.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.Form1.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.Properties.Resources.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.GenerateResource.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.CoreCompileInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.CopyComplete
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Ілля\ООП\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.exe.config
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RandomColorGenerator.Forms.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RegionVoronoi.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\clipper_library.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RegionVoronoi.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RandomColorGenerator.Forms.xml
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.AssemblyReference.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.Form1.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.Properties.Resources.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.GenerateResource.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.CoreCompileInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.CopyComplete
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.pdb
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.exe.config
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.exe
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\SimpleVoronoi.pdb
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RandomColorGenerator.Forms.dll
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RegionVoronoi.dll
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\clipper_library.dll
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RegionVoronoi.pdb
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\RandomColorGenerator.Forms.xml
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.AssemblyReference.cache
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.Form1.resources
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.Properties.Resources.resources
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.GenerateResource.cache
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.CoreCompileInputs.cache
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.CopyComplete
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.exe
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi-master\SimpleVoronoi\obj\Debug\SimpleVoronoi.pdb
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\bin\Debug\SimpleVoronoi.exe.config
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\bin\Debug\SimpleVoronoi.exe
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\bin\Debug\SimpleVoronoi.pdb
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\bin\Debug\RandomColorGenerator.Forms.dll
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\bin\Debug\RegionVoronoi.dll
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\bin\Debug\clipper_library.dll
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\bin\Debug\RegionVoronoi.pdb
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\bin\Debug\RandomColorGenerator.Forms.xml
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.AssemblyReference.cache
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\obj\Debug\SimpleVoronoi.Form1.resources
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\obj\Debug\SimpleVoronoi.Properties.Resources.resources
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.GenerateResource.cache
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.CoreCompileInputs.cache
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\obj\Debug\SimpleVoronoi.csproj.CopyComplete
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\obj\Debug\SimpleVoronoi.exe
+D:\guys\Покутнєв Олександр\OOP\lab4\Voronoi\SimpleVoronoi\obj\Debug\SimpleVoronoi.pdb

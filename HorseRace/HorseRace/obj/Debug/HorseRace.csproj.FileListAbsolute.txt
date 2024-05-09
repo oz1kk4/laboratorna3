@@ -1,0 +1,15 @@
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\bin\Debug\HorseRace.exe.config
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.AssemblyReference.cache
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\MainWindow.g.cs
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\App.g.cs
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\HorseRace_MarkupCompile.cache
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\HorseRace_MarkupCompile.lref
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\MainWindow.baml
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\HorseRace.g.resources
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\HorseRace.Properties.Resources.resources
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.GenerateResource.cache
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\HorseRace.csproj.CoreCompileInputs.cache
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\HorseRace.exe
+D:\guys\Покутнєв Олександр\OOP\lab4\HorseRace\HorseRace\obj\Debug\HorseRace.pdb

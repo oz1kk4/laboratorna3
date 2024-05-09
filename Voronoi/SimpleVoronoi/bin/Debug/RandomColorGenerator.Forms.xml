@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RandomColorGenerator.Forms</name>
+    </assembly>
+    <members>
+        <member name="T:RandomColorGenerator.ColorScheme">
+            <summary>
+            Predefined color schemes.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.ColorScheme.Random">
+            <summary>
+            Select randomly from among the other color schemes.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.ColorScheme.Monochrome">
+            <summary>
+            Generates only grayscale colors.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.ColorScheme.Red">
+            <summary>
+            Generates only red colors.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.ColorScheme.Orange">
+            <summary>
+            Generates only orange colors.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.ColorScheme.Yellow">
+            <summary>
+            Generates only yellow colors.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.ColorScheme.Green">
+            <summary>
+            Generates only green colors.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.ColorScheme.Blue">
+            <summary>
+            Generates only blue colors.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.ColorScheme.Purple">
+            <summary>
+            Generates only purple colors.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.ColorScheme.Pink">
+            <summary>
+            Generates only pink colors.
+            </summary>
+        </member>
+        <member name="T:RandomColorGenerator.Luminosity">
+            <summary>
+            Predefined luminosity ranges.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.Luminosity.Random">
+            <summary>
+            Select randomly from among the other luminosities.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.Luminosity.Dark">
+            <summary>
+            Generate dark colors.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.Luminosity.Light">
+            <summary>
+            Generate light, pastel colors.
+            </summary>
+        </member>
+        <member name="F:RandomColorGenerator.Luminosity.Bright">
+            <summary>
+            Generate vibrant colors.
+            </summary>
+        </member>
+        <member name="T:RandomColorGenerator.Options">
+            <summary>
+            Options for generating a random color.
+            </summary>
+        </member>
+        <member name="P:RandomColorGenerator.Options.ColorScheme">
+            <summary>
+            Gets or sets the color scheme to use when generating the color.
+            </summary>
+        </member>
+        <member name="P:RandomColorGenerator.Options.Luminosity">
+            <summary>
+            Gets or sets the luminosity range to use when generating the color.
+            </summary>
+        </member>
+        <member name="M:RandomColorGenerator.Options.#ctor">
+            <summary>
+            Creates a new instance using default values.
+            </summary>
+        </member>
+        <member name="M:RandomColorGenerator.Options.#ctor(RandomColorGenerator.ColorScheme,RandomColorGenerator.Luminosity)">
+            <summary>
+            Creates a new instance with the given color scheme and luminosity range.
+            </summary>
+            <param name="scheme">The color scheme to use when generating the color.</param>
+            <param name="luminosity">The luminosity range to use when generating the color.</param>
+        </member>
+        <member name="T:RandomColorGenerator.RandomColor">
+            <summary>
+            Generates random numbers.
+            </summary>
+        </member>
+        <member name="M:RandomColorGenerator.RandomColor.GetColor(RandomColorGenerator.ColorScheme,RandomColorGenerator.Luminosity)">
+            <summary>
+            Gets a new random color.
+            </summary>
+            <param name="scheme">Which color schemed to use when generating the color.</param>
+            <param name="luminosity">The desired luminosity of the color.</param>
+        </member>
+        <member name="M:RandomColorGenerator.RandomColor.GetColors(RandomColorGenerator.ColorScheme,RandomColorGenerator.Luminosity,System.Int32)">
+            <summary>
+            Generates multiple random colors.
+            </summary>
+            <param name="scheme">Which color schemed to use when generating the color.</param>
+            <param name="luminosity">The desired luminosity of the color.</param>
+            <param name="count">How many colors to generate</param>
+        </member>
+        <member name="M:RandomColorGenerator.RandomColor.GetColors(RandomColorGenerator.Options[])">
+            <summary>
+            Generate one color for each of the provided generator options.
+            </summary>
+            <param name="options">List of options to use when creating colors.</param>
+        </member>
+        <member name="M:RandomColorGenerator.RandomColor.Seed(System.Int32)">
+            <summary>
+            Reseeds the random number generated.
+            </summary>
+            <param name="seed">The number used to reseed the random number generator.</param>
+        </member>
+        <member name="M:RandomColorGenerator.RandomColor.Seed">
+            <summary>
+            Reseeds the random number generated.
+            </summary>
+        </member>
+        <member name="M:RandomColorGenerator.RandomColor.HsvToColor(System.Int32,System.Int32,System.Double)">
+            <summary>
+            Converts hue, saturation, and lightness to a color.
+            </summary>
+        </member>
+        <member name="T:RandomColorGenerator.Range">
+            <summary>
+            Represents a range using an upper and lower value.
+            </summary>
+        </member>
+        <member name="P:RandomColorGenerator.Range.Item(System.Int32)">
+            <summary>
+            Gets the lower range for an index of 0 and the upper for an index of 1.
+            </summary>
+        </member>
+    </members>
+</doc>
